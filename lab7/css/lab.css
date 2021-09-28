@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, "serif";
+    background-color: purple;
+    padding: 18px;
+    font-size: 120%;
+    color: #fff;
+}
+
+div#content {
+  padding: 35px;
+  background-color: purple;
+  border: dotted 2px white;
+  height: 115vh;
+}
+
+h1, h2, h3{
+  font-family: "Courier New", monospace;
+}
+
+img{
+  float: right;
+  width: 500px;
+  height: auto;
+  padding: 25px
+  filter: saturate(300%)
+  filter: hue-rotate(10 deg)blur();
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  text-decoration: none;
+  text-decoration-style: solid;
+}
