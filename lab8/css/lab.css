@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, "serif";
+    background-color: darkslateblue;
+    padding: 18px;
+    font-size: 120%;
+    color: #fff;
+}
+
+div#content {
+  padding: 20px;
+  background-color: black;
+  border: dotted 2px white;
+  height: 115vh;
+}
+h1, h2, h3{
+  font-family: "special elite", cursive;
+  font-weight: 800;
+}
+
+h1:hover{
+  font-size: 300%
+}
+
+p{
+  font-family: "courier new", monospace;
+}
+
+li{
+  font-family: "courier new", bold;
+}
+
+img{
+  float: right;
+  width: 500px;
+  height: auto;
+  padding: 25px
+  filter: saturate(300%)
+  filter: hue-rotate(10 deg)blur();
+}
+
+
+a {
+  text-decoration: none;
+  color: darkorange;
+}
