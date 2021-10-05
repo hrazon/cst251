@@ -1,0 +1,52 @@
+body {
+    background-image: url("../img/retroflowers.jpeg");
+    background-size: cover;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: Arial, "serif";
+    padding: 18px;
+    font-size: 150%;
+    color: #fff;
+}
+
+div#content {
+  padding: 30px;
+  border: dashed 20px lightcyan;
+  height: 115vh;
+}
+
+h1, h2 {
+  font-family: "special elite", monospace;
+  font-weight: 800;
+}
+
+p{
+  font-family: "garamond", serif;
+  border: dotted 5px lightsalmon;
+}
+
+li{
+  font-family: "garamond", serif;
+   color: pink;
+}
+
+img{
+  float: right;
+  width: 300px;
+  height: auto;
+  padding: 25px
+  filter: saturate(300%)
+  filter: hue-rotate(10 deg)blur();
+}
+
+a{
+  text-decoration: underline;
+  font-family: "garamond", serif;
+  color: aquamarine;
+}
