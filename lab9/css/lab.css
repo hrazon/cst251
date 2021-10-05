@@ -1,0 +1,54 @@
+body {
+    background-image: url("../img/coraline.jpeg");
+    background-size: cover;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: Arial, "serif";
+    padding: 18px;
+    font-size: 150%;
+    color: #fff;
+}
+
+div#content {
+  padding: 30px;
+  border: dotted 10px white;
+  height: 115vh;
+}
+
+h1, h2 {
+  font-family: "special elite", cursive;
+  font-weight: 800;
+}
+
+p{
+  font-family: "garamond", serif;
+  border: dashed 2px white;
+}
+
+li{
+  font-family: "garamond", serif;
+   color: pink;
+  border: 2px white;
+}
+
+img{
+  float: right;
+  width: 400px;
+  height: auto;
+  padding: 25px
+  filter: saturate(300%)
+  filter: hue-rotate(10 deg)blur();
+}
+
+a{
+  text-decoration: underline;
+  font-family: "special elite", cursive;
+  border: dashed 7px darkslateblue;
+  color: pink;
+}

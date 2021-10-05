@@ -12,13 +12,17 @@ div#content {
   border: dotted 2px white;
   height: 115vh;
 }
-h1, h2, h3{
+h1, h2 {
   font-family: "special elite", cursive;
   font-weight: 800;
 }
 
 h1:hover{
-  font-size: 300%
+  font-size: 30px
+}
+
+h2:hover {
+  font-size: 30px
 }
 
 p{
@@ -37,6 +41,7 @@ img{
   filter: saturate(300%)
   filter: hue-rotate(10 deg)blur();
 }
+
 
 
 a {
