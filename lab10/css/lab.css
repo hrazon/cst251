@@ -1,0 +1,54 @@
+body {
+    background-image: url("../img/ghost.jpeg");
+    background-size: cover;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: Arial, "serif";
+    padding: 18px;
+    font-size: 150%;
+    color: RoyalBlue;
+}
+
+div#content {
+  padding: 30px;
+  border: dashed 30px YellowGreen;
+  height: 115vh;
+}
+
+h1 {
+font-family: fantasy;
+text-decoration: underline;
+letter-spacing: 15px
+
+}
+
+h2 {
+font-family: serif;
+text-decoration: underline;
+letter-spacing: 5px;
+}
+
+p{
+  font-family: "garamond", serif;
+  border: dashed 2px indigo;
+}
+
+li{
+  font-family: "garamond", serif;
+  color: black;
+  border: 2px white
+
+}
+
+a{
+  text-decoration: underline;
+  font-family: fantasy;
+  border: dotted 7px violet;
+  color: indigo;
+}
