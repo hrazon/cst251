@@ -1,0 +1,86 @@
+body {
+    background-image: url("../img/pastel.jpeg");
+    background-size: cover;
+    padding: 30px;
+    border: dashed 20px lightcyan;
+    height: 115vh;
+}
+
+.center-horizontally {
+text-align: right;
+border: 5px solid white;
+width: 30%
+}
+
+.center {
+  height: 200px;
+  position: relative;
+}
+
+.center p{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
+}
+body {
+    display: inline-block;
+    margin: 8px;
+}
+
+body {
+    font-family: monospace;
+    padding: 18px;
+    font-size: 100%;
+    color: black;
+}
+
+h1 {
+  text-align: center;
+  font-family: "special elite", cursive;
+  font-weight: 800;
+  color: mediumvioletred;
+  text-decoration: underline;
+  letter-spacing: 10px
+
+
+}
+
+h2 {
+  text-align: left;
+  font-family: "special elite", cursive;
+  font-weight: 800;
+  color: mediumvioletred;
+  letter-spacing: 5px;
+}
+
+p{
+  font-family: "garamond", serif;
+}
+
+li{
+  font-family: "garamond", serif;
+  color: black;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:150px
+}
+
+a{
+  text-decoration: underline;
+  font-family: fantasy;
+  border: dotted 4px black;
+  color: hotpink;
+  font-family: monospace;
+}
+
+a:hover
+{
+  color: white;
+}
