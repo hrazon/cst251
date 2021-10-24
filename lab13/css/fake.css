@@ -1,0 +1,58 @@
+body {
+    background-image: url("../img/planets.jpeg");
+    background-size: cover;
+    padding: 30px;
+    height: auto;
+}
+
+div#content {
+  text-align: center;
+}
+
+h1{
+  font-size: 4.30rem;
+  font-family: cursive;
+  color: cyan;
+  font-weight: 700;
+  line-height: 1;
+}
+
+div#subject {
+  text-align: center;
+}
+
+p {
+  font-size: 2.00rem;
+  font-family: monospace;
+  color: lightsalmon;
+  font-weight: normal;
+  line-height: normal;
+}
+
+div#button{
+  text-align: center;
+}
+
+a {
+  font-size: 1.00rem;
+  font-family: monospace;
+  color: black;
+  font-weight: normal;
+  line-height: normal;
+}
+
+button {
+  background-color: red
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+}
+
+div#navigation {
+  text-align: center;
+  font-family: monospace;
+}

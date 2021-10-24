@@ -1,0 +1,33 @@
+body {
+    background-color: CornflowerBlue;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+body {
+    font-family: Arial, "serif";
+    padding: 18px;
+    font-size: 150%;
+    color: black;
+}
+
+h1 {
+font-family: monospace;
+text-decoration: inherit;
+letter-spacing: 15px
+
+}
+
+h2 {
+font-family: serif;
+text-decoration: underline;
+letter-spacing: 5px;
+}
+
+p{
+  font-family: "garamond", serif;
+  border: dashed 2px white;
+}
