@@ -1,0 +1,44 @@
+body {
+    background-color: Burlywood;
+    display: block;
+    margin: 8px;
+    border: dotted 10px black;
+}
+
+body {
+    font-family: Arial, "serif";
+    padding: 18px;
+    font-size: 150%;
+    color: black;
+}
+
+h1 {
+font-family: monospace;
+text-decoration: inherit;
+letter-spacing: 15px
+
+}
+
+h2 {
+font-family: serif;
+text-decoration: underline;
+letter-spacing: 5px;
+}
+
+p{
+  font-family: "garamond", serif;
+  border: dashed 2px white;
+}
+
+iframe#fake{
+  width:800px;
+  height:500px;
+  resize:both;
+  overflow:hidden;
+}
+
+a{
+  text-decoration: underline;
+  font-family: sans-serif;
+  color: white;
+}

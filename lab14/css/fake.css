@@ -1,0 +1,28 @@
+body {
+     display: block;
+     margin: 8px;
+     font-family: Arial, "serif";
+     padding: 18px;
+     font-size: 150%;
+     background-color: coral;
+}
+
+div#date {
+  text-align: center;
+}
+
+div#subject {
+  text-align: right;
+}
+
+div#content {
+  text-align: bottom;
+}
+
+p{
+  font-size: 3.00rem;
+  font-family: monospace;
+  color: white;
+  font-weight: 700;
+  line-height: 1;
+}
