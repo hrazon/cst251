@@ -1,0 +1,61 @@
+body {
+    background-image: linear-gradient(180deg, yellowgreen, pink);
+    font-family: monospace;
+    padding: 18px;
+    font-size: 100%;
+    color: black;
+}
+
+h1 {
+  text-shadow: 0px 0px 10px mistyrose;
+  font-family: 'Brush Script MT', cursive;
+  color: mediumvioletred;
+  text-align: center;
+  letter-spacing: 10px;
+  font-size: 300%;
+  box-shadow: 3px 3px 5px mediumslateblue;
+}
+
+img {
+  filter: grayscale(65%) blur(1px);
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  transform: translate(580px, 20px);
+}
+
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 200%;
+  color: mediumvioletred;
+  letter-spacing: 5px;
+  border-radius: 25px;
+  border: dotted 2px white;
+}
+
+p{
+  font-family: 'Courier New', monospace;
+  font-weight: bolder;
+  font-size: 100%;
+}
+
+li{
+  font-family: 'Courier New', monospace;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+}
+
+a{
+  text-decoration: underline;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 150%;
+  border: dotted 4px mistyrose;
+  color: mediumvioletred;
+  font-family: monospace;
+}
+
+a:hover{
+  color: hotpink;
+}
