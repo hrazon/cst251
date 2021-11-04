@@ -18,7 +18,7 @@ body {
 div#content {
   padding: 30px;
   border: dashed 20px lightcyan;
-  height: 115vh;
+  height: auto;
 }
 
 h1, h2 {
