@@ -1,37 +1,26 @@
 body {
-    background-image: linear-gradient(180deg, palevioletred, tomato);
-    font-family: monospace;
-    padding: 18px;
-    font-size: 100%;
-    color: black;
+    background-image: url("../img/fire.jpeg");
+    background-size: cover;
+    padding: 30px;
+    border: dashed 20px lightcyan;
+    height: auto;
 }
 
-
 h1 {
-  text-shadow: 0px 0px 10px mistyrose;
-  font-family: 'Brush Script MT', cursive;
-  color: mediumvioletred;
+  text-shadow: 0px 0px 10px yellow;
+  font-family: sans-serif;
+  color: darkblue;
   text-align: center;
   letter-spacing: 10px;
   font-size: 300%;
-  box-shadow: 3px 3px 5px mediumslateblue;
-  animation-name: bounce;
-  animation-duration: 4s;
-}
-
-img {
-  filter: grayscale(65%) blur(1px);
-  width: 200px;
-  height: 300px;
-  object-fit: cover;
-  transform: translate(580px, 20px);
+  box-shadow: 3px 3px 5px yellow;
 }
 
 h2 {
   text-align: center;
   font-family: monospace;
   font-size: 200%;
-  color: mediumvioletred;
+  color: white;
   letter-spacing: 5px;
   border-radius: 25px;
   border: dotted 2px white;
@@ -41,26 +30,34 @@ p{
   font-family: 'Courier New', monospace;
   font-weight: bolder;
   font-size: 100%;
-  column-count: 2;
+  color: white;
 }
 
 li{
   font-family: 'Courier New', monospace;
   font-weight: bolder;
   color: black;
-  text-align: center;
-  column-count: 1;
+  text-align: left;
+  font-size: 85%;
 }
 
 a{
   text-decoration: underline;
   font-family: 'Brush Script MT', cursive;
   font-size: 150%;
-  border: dotted 4px mistyrose;
-  color: mediumvioletred;
+  border: dotted 4px darkgrey;
+  color: darkblue;
   font-family: monospace;
+  text-align: left;
 }
 
-a:hover{
-  color: hotpink;
+footer {
+  text-decoration: underline;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 85%;
+  color: darkblue;
+  font-family: monospace;
+  text-align: left;
+  text-shadow: 0px 0px 10px mistyrose;
+  box-shadow: 3px 3px 5px mediumslateblue;
 }
