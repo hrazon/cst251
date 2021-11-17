@@ -26,28 +26,3 @@ h3{
   border-radius: 15px 50px;
   border:2px solid;
   padding: 20px;
-
-  .sidenav {
-    height: auto;
-    width: 300px;
-    position: sticky;
-    float: right;
-    color: white;
-    overflow-x: hidden;
-    padding-top: 20px;
-    display: inline-block;
-  }
-
-  .sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-family: monospace;
-    font-size: 20px;
-    color: white;
-    display: inline-block;
-    text-decoration: underline;
-  }
-
-  .sidenav a:hover {
-    color: lightgreen;
-  }
