@@ -1,0 +1,100 @@
+body{
+  background-color: #D8BFD8;
+  font-family: Arial, "serif";
+  padding: 18px;
+  font-size: 100%;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  font-weight: 800;
+  color: floralwhite;
+  text-decoration: inherit;
+  letter-spacing: 8px
+}
+
+h3{
+  text-decoration: inherit;
+  letter-spacing: 5px
+}
+
+.sidenav{
+ display: flex;
+}
+
+.homepage div{
+  border: 1px dotted;
+  padding: 10px;
+}
+
+.sections{
+  display:flex;
+}
+
+.sections div{
+  border-radius: 25px;
+  border:2px solid;
+  padding: 20px;
+  width:200px;
+  height:150px;
+}
+
+.challenge{
+  flex:1;
+  color: #20B2AA;
+}
+
+.problems{
+  flex:1;
+  color: #20B2AA;
+}
+
+.results{
+  flex:1;
+  color: #20B2AA;
+}
+
+.images{
+  display:flex;
+}
+
+.images div{
+  border-radius: 15px 50px;
+  padding: 20px;
+  background-color: lavender;
+
+}
+
+.img1{
+  flex:1;
+}
+
+.img2{
+  flex:1;
+}
+
+.sidenav {
+  height: auto;
+  width: 300px;
+  position: sticky;
+  float: right;
+  color: white;
+  overflow-x: hidden;
+  padding-top: 20px;
+  display: inline-block;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.sidenav a:hover {
+  color: lightgreen;
+}
